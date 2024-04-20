@@ -1,1 +1,2 @@
 This is first file in master
+2nd line added
